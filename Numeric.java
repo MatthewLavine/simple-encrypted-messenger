@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.String;
 
-class Main {
+class Numeric {
 	public static void main(String[] args) {
 		String msg = "";
 		int hash = 0;

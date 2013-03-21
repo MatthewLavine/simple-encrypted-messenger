@@ -2,8 +2,8 @@
 simple-encrypted-messenger
 ==========================
 A simple java-based encrypted messenger app
-Matthew Lavine | hermitlavine@gmail.com
-
+Matthew Lavine | msl23@njit.edu
+Joe Parrinello | jap64@njit.edu
 
 Version 0.1
 -Rewritten to accept text-based messages

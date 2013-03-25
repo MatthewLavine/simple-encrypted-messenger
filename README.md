@@ -1,5 +1,5 @@
 
-simple-encrypted-messenger
+|simple-encrypted-messenger
 ==========================
 A simple java-based encrypted messenger app
 Matthew Lavine | msl23@njit.edu

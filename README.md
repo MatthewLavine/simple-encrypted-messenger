@@ -5,6 +5,8 @@ A simple java-based encrypted messenger app
 Matthew Lavine | msl23@njit.edu
 Joe Parrinello | jap64@njit.edu
 
+What should we add?
+
 Version 0.2
 -Rewritten to accept text-based messages
 -Compile and run THash [ e|d  Name  Message ]
